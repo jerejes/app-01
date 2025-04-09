@@ -12,7 +12,7 @@ namespace app_1
         {
             Console.Write("bienvenidos a las clases de c#");
             Console.ReadKey();
-
+            Console.Write("bienvenidos a las clases de c#");
 
         }
     }
